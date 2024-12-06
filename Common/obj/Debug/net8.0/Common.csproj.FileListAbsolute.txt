@@ -1,0 +1,12 @@
+C:\c#Projects\RabbitMQServices\Common\bin\Debug\net8.0\Common.deps.json
+C:\c#Projects\RabbitMQServices\Common\bin\Debug\net8.0\Common.dll
+C:\c#Projects\RabbitMQServices\Common\bin\Debug\net8.0\Common.pdb
+C:\c#Projects\RabbitMQServices\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#Projects\RabbitMQServices\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\c#Projects\RabbitMQServices\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\c#Projects\RabbitMQServices\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\c#Projects\RabbitMQServices\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\c#Projects\RabbitMQServices\Common\obj\Debug\net8.0\Common.dll
+C:\c#Projects\RabbitMQServices\Common\obj\Debug\net8.0\refint\Common.dll
+C:\c#Projects\RabbitMQServices\Common\obj\Debug\net8.0\Common.pdb
+C:\c#Projects\RabbitMQServices\Common\obj\Debug\net8.0\ref\Common.dll

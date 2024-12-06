@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wS0jQ5y8VK5OH7MntX6bPou3FN1LW9wN2d4oaTCs8n8=",
+  "Source": "ReceiverAPP",
+  "BasePath": "_content/ReceiverAPP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
